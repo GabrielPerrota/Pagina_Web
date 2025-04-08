@@ -1,1 +1,1 @@
-Repositório dedicadoa mostra meu projeto no desenvolvimento de uma página web
+Repositório dedicado a mostrar meu projeto no desenvolvimento de uma página web
